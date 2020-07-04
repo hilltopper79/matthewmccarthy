@@ -53,7 +53,7 @@ h1 {
 }
 
 h1 span {
-    color: #028910;
+    color: #f64c72;
 }
 
 h2 {
@@ -88,7 +88,7 @@ h4 {
 }
 
 .section-title span {
-    color: #028910;
+    color: #f64c72;
 }
 
 .cta {
@@ -96,7 +96,7 @@ h4 {
     padding: 10px 30px;
     color: white;
     background-color: transparent;
-    border: 2px solid #028910;
+    border: 2px solid #f64c72;
     font-size: 2rem;
     text-transform: uppercase;
     letter-spacing: .1rem;
@@ -107,7 +107,7 @@ h4 {
 
 .cta:hover {
     color: white;
-    background-color: #028910;
+    background-color: #f64c72;
 }
 
 .brand h2 {
@@ -117,7 +117,7 @@ h4 {
 }
 
 .brand h2 span {
-    color: #028910;
+    color: #f64c72;
 }
 
 
@@ -209,7 +209,7 @@ h4 {
 }
 
 #header .nav-list ul li:hover a {
-    color: #028910;
+    color: #f64c72;
 }
 
 #header .hamburger {
@@ -341,7 +341,7 @@ h4 {
     left: 0;
     height: 100%;
     width: 0;
-    background-color: #028910;
+    background-color: #f64c72;
     animation: text_reveal_box 1s ease;
     animation-delay: .5s;
 }
@@ -531,7 +531,7 @@ h4 {
     top: 5px;
     height: 98%;
     width: 98%;
-    border: 5px solid #028910;
+    border: 5px solid #f64c72;
     z-index: -1;
 }
 
@@ -758,7 +758,7 @@ h4 {
 
 @keyframes text_reveal_name {
     100% {
-        color: #028910;
+        color: #f64c72;
         font-weight: 500;
     }
 }
@@ -841,7 +841,7 @@ h4 {
         left: -20px;
         top: 8px;
         height: 98%;
-        border: 5px solid #028910;
+        border: 5px solid #f64c72;
     }
 
     #about .col-right {
