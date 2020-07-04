@@ -100,14 +100,16 @@ h4 {
     font-size: 2rem;
     text-transform: uppercase;
     letter-spacing: .1rem;
+    font-weight: 400;
     margin-top: 30px;
     transition: .3s ease;
     transition-property: background-color, color;
 }
 
 .cta:hover {
-    color: black;
-    background-color: #f64c72;
+    color: white;
+    background-color: #242582;
+    border: 2px solid #f64c72;
 }
 
 .brand h2 {
@@ -553,9 +555,13 @@ h4 {
 
 #about .col-right .cta {
     color: black;
-    font-weight: 600;
+    font-weight: 400;
     margin-bottom: 50px;
     padding: 10px 20px;
+}
+
+#about .col-right .cta:hover {
+    color: white;
 }
 
 #about .embed-container {

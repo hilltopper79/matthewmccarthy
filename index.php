@@ -190,10 +190,10 @@
                         <a href="#"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"></a>
                     </div>                    
                     <div class="social-item">
-                        <a href="#"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"></a>
+                        <a href="#"><img src="https://img.icons8.com/color/48/000000/yelp.png"></a>
                     </div>
                     <div class="social-item">
-                        <a href="#"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"></a>
+                        <a href="#"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
                     </div>
                 </div>
                 <p>Copyright &copy; 2020 Matthew McCarthy. All rights reserved</p>
