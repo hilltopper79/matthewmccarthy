@@ -24,7 +24,7 @@
                         <ul>
                             <li><a href="#hero" data-after="Home">Home</a></li>
                             <li><a href="#services" data-after="Services">Services</a></li>
-                            <li><a href="#projects" data-after="Projects">Projects</a></li>
+                            <li><a href="#testimonials" data-after="testimonials">testimonials</a></li>
                             <li><a href="#about" data-after="Bio">Bio</a></li>
                             <li><a href="#contact" data-after="Contact">Contact</a></li> 
                         </ul>
@@ -88,16 +88,16 @@
         </section>
         <!-- End Service Section -->
 
-        <!-- Projects Section -->
-            <section id="projects">
-                <div class="projects container">
-                    <div class="projects-header">
-                        <h2 class="section-title">Recent <span>Projects</span></h2>
+        <!-- Testimonials Section -->
+            <section id="testimonials">
+                <div class="testimonials container">
+                    <div class="testimonials-header">
+                        <h2 class="section-title">Test<span>i</span>monials</h2>
                     </div>             
-                    <div class="all-projects">
+                    <div class="all-testimonials">
                         <div class="project-item">
                             <div class="project-info">
-                                <h3>Project 1</h2>
+                                <h3>Testimonial 1</h2>
                                 <h4>Title</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do incididunt ut labore et dolore magnaaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                             </div>                            
@@ -107,7 +107,7 @@
                         </div>
                         <div class="project-item">
                             <div class="project-info">
-                                <h3>Project 1</h2>
+                                <h3>Testimonial 2</h2>
                                     <h4>Title
                                 </h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do incididunt ut labore
@@ -121,7 +121,7 @@
                     </div>             
                 </div>
             </section>
-        <!-- End Projects Section -->
+        <!-- End Testimonials Section -->
 
         <!-- About Section -->
         <section id="about">
@@ -143,40 +143,6 @@
             </div>
         </section>
         <!-- End About Section -->
-
-        <!-- Contact Section -->
-        <section id="contact">
-            <div class="contact container">
-                <div>
-                    <h2 class="section-title">Contact <span>Me</span></h2>
-                </div>
-                <div class="contact-items">
-                    <form action="mail.php" method="POST">
-                        <fieldset>
-                            <label for="full-name">Full Name</label>
-                            <input type="text" name="fullName" id="full-name" required>
-                        </fieldset>
-                        <fieldset>
-                            <label for="">Email Address</label>
-                            <input type="email" name="email" required id="email">
-                        </fieldset>
-                        <fieldset>
-                            <label for="subject">Subject</label>
-                            <input type="text" name="subject" id="subject" required>
-                        </fieldset>
-                        <fieldset class="comment-text-area">
-                            <label for="message">Message</label>
-                            <textarea name="message" class="textinput" minlength="20" maxlength="500" required></textarea>
-                        </fieldset>
-                        <fieldset id="buttons">
-                            <input type="submit" value="Send" id="submit">
-                            <input type="reset" value="Clear" id="reset">
-                        </fieldset>
-                    </form>
-                </div>
-            </div>
-        </section>
-        <!-- End Contact Section -->
 
         <!-- Footer -->
         <section id="footer">
