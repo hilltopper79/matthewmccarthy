@@ -273,15 +273,6 @@ h4 {
 #header .hamburger.active .bar::after {
     top: 0;
 }
-
-/* #header .success-img {
-    max-width: 50%;
-    padding-top: 25px;
-    margin: 0 auto;
-    overflow: hidden;
-    position: relative;
-    filter: grayscale(.5);
-} */
 /* End Header Section */
 
 
@@ -289,7 +280,7 @@ h4 {
 /* ------------------------------------------------ */
 /* Hero Section */
 #hero {
-    background-image: url(./images/piano-choog.jpg);
+    background-image: url(./images/matthew-lesson3.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
