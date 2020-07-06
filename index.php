@@ -24,7 +24,7 @@
                         <ul>
                             <li><a href="#hero" data-after="Home">Home</a></li>
                             <li><a href="#services" data-after="Services">Services</a></li>
-                            <li><a href="#testimonials" data-after="testimonials">testimonials</a></li>
+                            <li><a href="#testimonials" data-after="testimonials">Testimonials</a></li>
                             <li><a href="#about" data-after="Bio">Bio</a></li>
                             <li><a href="#contact" data-after="Contact">Contact</a></li> 
                         </ul>
@@ -95,18 +95,18 @@
                         <h2 class="section-title">Test<span>i</span>monials</h2>
                     </div>             
                     <div class="all-testimonials">
-                        <div class="project-item">
-                            <div class="project-info">
+                        <div class="testimonial-item">
+                            <div class="testimonial-info">
                                 <h3>Testimonial 1</h2>
                                 <h4>Title</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do incididunt ut labore et dolore magnaaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                             </div>                            
-                            <div class="project-img">
+                            <div class="testimonial-img">
                                 <img src="images/crazy-dude.jpg" alt="img">
                             </div>
                         </div>
-                        <div class="project-item">
-                            <div class="project-info">
+                        <div class="testimonial-item">
+                            <div class="testimonial-info">
                                 <h3>Testimonial 2</h2>
                                     <h4>Title
                                 </h3>
@@ -114,7 +114,7 @@
                                     et dolore magnaaliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
                                     laboris nisi ut aliquip ex ea commodo consequat.</p>
                             </div>
-                            <div class="project-img">
+                            <div class="testimonial-img">
                                 <img src="images/crazy-dude.jpg" alt="img">
                             </div>
                         </div>

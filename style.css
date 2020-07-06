@@ -446,7 +446,7 @@ h4 {
     flex-direction: column;
 }
 
-#testimonials .project-item {
+#testimonials .testimonial-item {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -457,7 +457,7 @@ h4 {
     border-radius: 10px;
 }
 
-#testimonials .project-info {
+#testimonials .testimonial-info {
     padding: 30px;
     flex-basis: 50%;
     height: 100%;
@@ -469,14 +469,14 @@ h4 {
     color: white;
 }
 
-#testimonials .project-img {
+#testimonials .testimonial-img {
     flex-basis: 50%;
     height: 400px;
     overflow: hidden;
     position: relative;
 }
 
-#testimonials .project-img:after {
+#testimonials .testimonial-img:after {
     content: '';
     position: absolute;
     left: 0;
@@ -487,14 +487,14 @@ h4 {
     opacity: .2;
 }
 
-#testimonials .project-img img {
+#testimonials .testimonial-img img {
     transition: .3s ease transform;
 }
 
-#testimonials .project-item:hover .project-img img {
+#testimonials .testimonial-item:hover .testimonial-img img {
     transform: scale(1.1);
 }
-/* End Project Section */
+/* End testimonial Section */
 
 
 
@@ -687,30 +687,30 @@ h4 {
     }
     /* End Service Section */
 
-    /* Project Section */
-    #testimonials .project-item {
+    /* testimonial Section */
+    #testimonials .testimonial-item {
         flex-direction: row;
     }
 
-    #testimonials .project-item:nth-child(even) {
+    #testimonials .testimonial-item:nth-child(even) {
         flex-direction: row-reverse;
     }
 
-    #testimonials .project-item {
+    #testimonials .testimonial-item {
         height: 400px;
         margin: 0;
         width: 100%;
         border-radius: 0;
     }
 
-    #testimonials .all-testimonials .project-info {
+    #testimonials .all-testimonials .testimonial-info {
         height: 100%;
     }
 
-    #testimonials .all-testimonials .project-img {
+    #testimonials .all-testimonials .testimonial-img {
         height: 100%;
     }
-    /* End Project Section */
+    /* End testimonial Section */
 
      /* About Section */
     #about .about {
